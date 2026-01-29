@@ -1,0 +1,4 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,JLCPCB Price,JLCPCB Stock
+1,1,ESP32 DEVKIT1,ESP32 DEVKIT1,ESP32 Devkit1,,,,,,,
+2,1,OLED 0.96,OLED1,OLED_0.96_Footprint,,,,,,,
+3,5,TS-1187A-B-A-B,"SW1,SW2,SW3,SW4,SW5",SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5,,TS-1187A-B-A-B,XKB Connection(中国星坤),C318884,LCSC,0.0029,698998
