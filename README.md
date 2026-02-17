@@ -8,6 +8,7 @@ The Techack1 MS is a more cost efficent version of the Techack1 but with less fe
 <img width="1624" height="782" alt="Screenshot 2026-01-30 101522" src="https://github.com/user-attachments/assets/a45d99d5-bb5b-4fe7-b984-42ac224d9241" />
 <img width="1888" height="550" alt="Screenshot 2026-01-30 104053" src="https://github.com/user-attachments/assets/65855f95-500a-4bb2-a56a-b07cd79df05a" />
 <img width="291" height="541" alt="Screenshot 2026-01-29 090824" src="https://github.com/user-attachments/assets/b95493b1-44cf-4654-9c0c-b9f3caf7b540" />
+<img width="774" height="559" alt="Screenshot 2026-02-17 154937" src="https://github.com/user-attachments/assets/18613d9c-a1e8-4311-a775-b67d5e71e90e" />
 
 ### Price:
 $12.79
